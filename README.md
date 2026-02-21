@@ -51,14 +51,14 @@ Separate Files (Manual Setup)
 
 Example folder structure after manual setup:
 
-`
+```
 Your_Folder/
-├── Win8SideBar_x64.exe     (or the .au3 script)
+├── Win8_Side_Bar_x64.exe     (or the .au3 script)
 ├── icons/
 │   ├── A1.ico
 │   ├── A2.ico
 │   └── ... (up to A12.ico)
-`
+```
 
 ---
 
@@ -113,14 +113,13 @@ Settings are saved in launchbar.ini and include:
 
 ## 📁 File Structure After Installation
 
-`
-YourChosenFolder/
-├── Win8SideBar.au3 OR Win8SideBarx64.exe OR Win8SideBarx86.exe
+```
+Your_Chosen_Folder/
+├── Win8_Side_Bar.au3 OR Win8_Side_Bar_x64.exe OR Win8_Side_Bar_x86.exe
 ├── icons/                          (MUST be present!)
 │   ├── A1.ico through A12.ico
 ├── launchbar.ini                    (auto-created after first run)
-`
-
+```
 ---
 
 ## 🔧 Requirements
