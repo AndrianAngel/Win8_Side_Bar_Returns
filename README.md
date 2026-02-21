@@ -4,7 +4,49 @@ ___
 
 A sleek, customizable sidebar launcher for Windows that provides quick access to system tools, settings, and applications with a modern Windows 8.1 inspired design.
 
----
+___
+
+
+
+## 🌞🎁 ALL FEATURES 🎁🌞
+
+___
+
+
+
+## 📌 Font Bold
+
+
+
+![A1 Settings](Images/A1.png)
+
+
+
+___
+
+
+
+## 📌 Font Normal
+
+
+
+![A2 Settings](Images/A2.png)
+
+
+
+___
+
+
+
+## 🌿Setting
+
+
+
+![A3 Settings](Images/A3.png)
+
+
+
+___
 
 ## ✨ Features
 
