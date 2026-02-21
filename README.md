@@ -142,7 +142,19 @@ Settings are saved in launchbar.ini and include:
 - Segoe UI Font – Matches Windows 8.1 aesthetic  
 - Subtle Separators – Minimalist design with almost invisible dividers  
 
----
+___
+
+
+
+## 📽️ Quick Overview
+
+
+
+![E1.gif Settings](Images/E1.gif)
+
+
+
+___
 
 ## ⌨️ Hotkeys
 
