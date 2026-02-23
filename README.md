@@ -11,6 +11,18 @@ ___
 
 ## 🚀 Windows 8.1 Side Bar Launcher – A sleek, customizable sidebar launcher inspired by Windows 8.1
 
+## 👀 What's New?
+
+· 🖱️ Improved edge detection – Hover at the right screen edge (with optional Alt/Ctrl/Shift) to show the bar
+· 🎮 Ignore fullscreen mode – Toggleable setting to prevent the bar from appearing when games/fullscreen apps are active
+· 📌 Always on top – Bar and clock stay above all windows for quick access
+· ⚡ Quick access to Settings, Control Panel, CMD (Shift for admin), Everything search, and more
+· ⌨️ Customizable hotkeys & bold font options
+
+Perfect for power users who want instant system access with a clean, minimal interface! 🔧
+
+## 🚀 Windows 8.1 Side Bar Launcher – A sleek, customizable sidebar launcher inspired by Windows 8.1
+
 ## 👀 What's New ?
 
 · 🖱️ Improved edge detection – Hover at the right screen edge (with optional Alt/Ctrl/Shift) to show the bar
