@@ -68,9 +68,9 @@ Complete Packages (Recommended)
 
 | Package | Contents | Instructions |
 |---------|----------|--------------|
-| Win8SideBarSourceCode.zip | Win8SideBar.au3 + icons/ folder | Extract everything to a folder. Open/edit the .au3 file with AutoIt if you want to modify the code. |
-| Win8SideBarx64.zip | Win8SideBarx64.exe + icons/ folder | Extract both the .exe and the icons/ folder to the same location. Run the .exe to start. |
-| Win8SideBarx86.zip | Win8SideBarx86.exe + icons/ folder | Extract both the .exe and the icons/ folder to the same location. Run the .exe to start. |
+| Win8_Side_Bar_Alpha_Source_Code.zip | Win8_Side_Bar_Alpha.au3 + icons/ folder | Extract everything to a folder. Open/edit the .au3 file with AutoIt if you want to modify the code. |
+| Win8_Side_Bar_Alpha_x64.zip | Win8_Side_Bar_Alpha_x64.exe + icons/ folder | Extract both the .exe and the icons/ folder to the same location. Run the .exe to start. |
+| Win8_Side_Bar_Alpha_x86.zip | Win8_Side_Bar_Alpha_x64.exe + icons/ folder | Extract both the .exe and the icons/ folder to the same location. Run the .exe to start. |
 
 ⚠️ Important: The icons/ folder must be in the same directory as the .exe file, otherwise the menu icons won't display!
 
@@ -78,14 +78,14 @@ Complete Packages (Recommended)
 
 Separate Files (Manual Setup)
 
-- Win8SideBar_x64.exe – 64-bit executable  
+- Win8_Side_Bar_Alpha_x64.exe – 64-bit executable  
   - Create a folder, place this .exe inside  
   - Download icons.zip and extract its contents into an icons/ folder next to the .exe  
 
-- Win8SideBar_x86.exe – 32-bit executable  
+- Win8_Side_Bar_Alpha_x86.exe – 32-bit executable  
   - Same as above – needs icons/ folder in the same directory  
 
-- Win8SideBar.au3 – AutoIt source script  
+- Win8_Side_Bar_Alpha.au3 – AutoIt source script  
   - Place this in a folder with the icons/ folder (extracted from icons.zip) to run/edit the script  
 
 - icons.zip – Icon pack  
@@ -95,7 +95,7 @@ Example folder structure after manual setup:
 
 ```
 Your_Folder/
-├── Win8_Side_Bar_x64.exe     (or the .au3 script)
+├── Win8_Side_Bar_Alpha_x64.exe     (or the .au3 script)
 ├── icons/
 │   ├── A1.ico
 │   ├── A2.ico
@@ -169,7 +169,7 @@ ___
 
 ```
 Your_Chosen_Folder/
-├── Win8_Side_Bar.au3 OR Win8_Side_Bar_x64.exe OR Win8_Side_Bar_x86.exe
+├── Win8_Side_Bar_Alpha.au3 OR Win8_Side_Bar_Alpha_x64.exe OR Win8_Side_Bar_Alpha_x64.exe
 ├── icons/                          (MUST be present!)
 │   ├── A1.ico through A12.ico
 ├── launchbar.ini                    (auto-created after first run)
