@@ -18,6 +18,7 @@ ___
 - 📌 Always on top – Bar and clock stay above all windows for quick access
 - ⚡ Quick access to Settings, Control Panel, CMD (Shift for admin), Everything search, and more
 - ⌨️ Customizable hotkeys & bold font options
+- 🌞 The Alpha_01 version Fixed a Bug from Alpha version (It works on Desktop now while Ignore Fullscreen Mode is activated)
 
 Perfect for power users who want instant system access with a clean, minimal interface! 🔧
 
